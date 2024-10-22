@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently working on : windx and windxui<br>👯 I’m looking to collaborate on<br>🌱 I’m currently learning : reactjs<br>
+🔭 I’m currently working on : Windx and Windxui<br>👯 I’m looking to collaborate on<br>🌱 I’m currently learning : reactjs<br>
 
 ## 🌐 Socials:
 
