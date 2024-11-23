@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently working on : Windx and WindxUI<br>👯 I’m looking to collaborate on<br>🌱 I’m currently learning : ReactJS and TailwindCSS<br>
+🔭 I’m currently working on : Windx and WindxUI<br>👯 I’m looking to collaborate on web development projects<br>🌱 I’m currently learning : ReactJS and TailwindCSS<br>
 
 ## 🌐 Socials:
 
