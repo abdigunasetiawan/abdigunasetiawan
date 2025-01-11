@@ -4,7 +4,7 @@
 
 <br>
 <div align="center">
-  <img src="https://profile-counter.glitch.me/abnvlf/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/abdi/count.svg?"  />
 </div>
 <br>
 ## 🌐 Socials:
