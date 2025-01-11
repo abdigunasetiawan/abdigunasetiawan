@@ -2,6 +2,11 @@
 
 🔭 I’m currently working on : Windx and WindxUI<br>👯 I’m looking to collaborate on web development projects<br>🌱 I’m currently learning : ReactJS and TailwindCSS<br>
 
+<br>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/abnvlf/count.svg?"  />
+</div>
+<br>
 ## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdigunasetiawan)
